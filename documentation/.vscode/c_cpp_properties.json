@@ -1,0 +1,18 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "AVR",
+            "compilerPath": "C:/avr8-gnu-toolchain-win32_x86_64/bin/avr-gcc.exe",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/avr8-gnu-toolchain-win32_x86_64/avr/include"
+            ],
+            "defines": [
+                "__AVR_ATmega32__"
+            ],
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ]
+}
